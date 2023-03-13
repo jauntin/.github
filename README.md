@@ -1,0 +1,2 @@
+# .github
+Jauntin defaults

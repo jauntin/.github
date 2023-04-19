@@ -17,7 +17,15 @@ assignees: ''
 
 - [ ] Doesn't have unmet dependencies
 - [ ] Description is clear and concise
-- [ ] Business value is clear
-- [ ] Has tasks that make it estimable
-- [ ] Small enough to be doable in 2 days max
 - [ ] Acceptance criteria is provided and clear
+
+## Definition of Done
+
+- [ ] PR accepted
+- [ ] DEV environment updated
+- [ ] QA tests pass (acceptance criteria met, functional and non-functional requirements met, bugs are absent)
+- [ ] PO tests pass
+- [ ] UAT environment updated
+- [ ] QA tests pass
+- [ ] Customer tests pass
+- [ ] PROD environment updated

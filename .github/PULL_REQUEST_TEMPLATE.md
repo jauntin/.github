@@ -1,4 +1,4 @@
-### What does this PR addressing?
+### What does this PR address?
 
 <!-- Be specific about what parts of the related issue are being addressed, not just an issue link. -->
 <!--

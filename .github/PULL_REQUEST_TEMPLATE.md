@@ -1,23 +1,29 @@
-### What problem or feature request is this MR addressing?
+### What does this PR addressing?
 
-<!-- Include the issue link, and describe the problem briefly -->
-<!-- Are parts of the issue being addressed, which parts not addressed? -->
+<!-- Be specific about what parts of the related issue are being addressed, not just an issue link. -->
+<!--
+    Do this whether the PR covers the entire issue end-to-end, or just a part, or a fix for a previous PR.
+    The reviewer must know what is/isn't being addressed, and what to look for / not look for.
+-->
 
-### How does this MR solve the problem or feature request?
+### How does this PR address the issue?
 
-<!-- Technical notes on implementation -->
+<!-- Summary of the changes in the PR, and how they relate to the parts mentioned above -->
+<!-- Include any technical notes on implementation -->
 
 ### Demo
 
-<!-- api docs, images, or other useful info -->
+<!-- api docs, images, or other useful info. Anything to give the reviewer context on what is happening -->
 
 ### Manual testing (:tophat:) instructions
 
 <!-- Provide the information a reviewer needs to confirm the PR works within the app -->
+<!-- Provide the information QA/PO needs to confirm the PR works within the app -->
 
 ### Pre-merge Checklist
 
+- [ ] PR has been linked to an issue
 - [ ] Tests created or updated as necessary
-- [ ] Author has tested the update
-- [ ] Reviewer has tested the update
-- [ ] upon merge, commit history is clean (including squashing of commits as required)
+- [ ] Author has manually tested the update
+- [ ] Reviewer has manually tested the update
+- [ ] Upon merge, commit history is clean

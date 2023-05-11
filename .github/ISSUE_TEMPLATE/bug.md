@@ -9,11 +9,11 @@ assignees: ''
 
 ## Description
 
-Steps to reproduce
+Steps to reproduce:
 
-Actual result
+Actual result:
 
-Expected result
+Expected result:
 
 
 ## Acceptance Criteria
@@ -35,3 +35,4 @@ Expected result
 - [ ] QA tests pass
 - [ ] Customer tests pass
 - [ ] PROD environment updated
+- [ ] QA/PO tests pass (if applicable)

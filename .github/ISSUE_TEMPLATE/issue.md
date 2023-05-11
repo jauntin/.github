@@ -29,3 +29,4 @@ assignees: ''
 - [ ] QA tests pass
 - [ ] Customer tests pass
 - [ ] PROD environment updated
+- [ ] QA/PO tests pass (if applicable)

@@ -21,9 +21,10 @@ Expected result:
 ## Tasks
 
 ## Definition of Ready
-- [] Doesn’t have unmet dependencies
-- [] Description is clear and concise
-- [] Acceptance criteria is provided and clear
+
+- [ ] Doesn’t have unmet dependencies
+- [ ] Description is clear and concise
+- [ ] Acceptance criteria is provided and clear
 
 ## Definition of Done
 

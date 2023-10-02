@@ -14,7 +14,6 @@ assignees: ''
 
 ## Actions
 
-
 ## Tasks
 
 - [ ] System administrator views the alert

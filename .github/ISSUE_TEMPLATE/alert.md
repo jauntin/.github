@@ -9,7 +9,7 @@ assignees: ''
 
 ## Description
 
-- (Alert link)
+- (Alert link or error link)
 - (Severity and urgency)
 
 ## Actions

@@ -15,7 +15,7 @@
 
 <!-- api docs, images, or other useful info. Anything to give the reviewer context on what is happening -->
 
-### Manual testing (:tophat:) instructions
+### Manual testing instructions
 
 <!-- Provide the information a reviewer needs to confirm the PR works within the app -->
 <!-- Provide the information QA/PO needs to confirm the PR works within the app -->

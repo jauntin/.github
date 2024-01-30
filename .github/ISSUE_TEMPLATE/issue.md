@@ -15,6 +15,7 @@ assignees: ''
 
 ## Definition of Ready
 
+- [ ] Reviewed by Engineering
 - [ ] Doesn't have unmet dependencies
 - [ ] Description is clear and concise
 - [ ] Acceptance criteria is provided and clear

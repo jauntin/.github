@@ -1,7 +1,7 @@
 ---
-name: Issue template
-about: Main Issue template
-title: Issue Title
+name: Enhancement template
+about: Issue template for enhancements
+title: Enhancement Title
 labels: ''
 assignees: ''
 
@@ -16,6 +16,7 @@ assignees: ''
 ## Definition of Ready
 
 - [ ] Reviewed by engineering
+- [ ] Tasks or subissues are provided
 - [ ] Doesn't have unmet dependencies
 - [ ] Description is clear and concise
 - [ ] Acceptance criteria is provided and clear

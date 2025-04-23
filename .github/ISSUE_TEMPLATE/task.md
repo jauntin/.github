@@ -1,15 +1,12 @@
 ---
 name: Task template
 about: Issue template for tasks
-title: Task Title
-labels: ''
-assignees: ''
-
+type: Task
 ---
 
 ## Task
 
-<!-- Provider a description or a list of subtasks -->
+<!-- Provide a description or a list of subtasks -->
 
 ## Acceptance Criteria
 

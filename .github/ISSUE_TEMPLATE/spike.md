@@ -1,10 +1,7 @@
 ---
 name: Spike template
 about: Issue template for spikes
-title: Spike Title
-labels: ''
-assignees: ''
-
+type: Spike
 ---
 
 ## Goal description

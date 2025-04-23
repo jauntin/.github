@@ -1,10 +1,7 @@
 ---
 name: Enhancement template
 about: Issue template for enhancements
-title: Enhancement Title
-labels: ''
-assignees: ''
-
+type: Enhancement
 ---
 
 ## Description

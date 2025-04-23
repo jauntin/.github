@@ -1,10 +1,7 @@
 ---
 name: Bug template
 about: Issue template for bugs
-title: Bug Title
-labels: ''
-assignees: ''
-
+type: Bug
 ---
 
 ## Description

@@ -1,10 +1,7 @@
 ---
 name: Alert template
 about: Issue template for alert responses
-title: Alert Title
-labels: ''
-assignees: ''
-
+type: Alert
 ---
 
 ## Description

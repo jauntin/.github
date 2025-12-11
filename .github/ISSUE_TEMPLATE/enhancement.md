@@ -29,3 +29,4 @@ type: Enhancement
 - [ ] Customer tests pass
 - [ ] PROD environment updated
 - [ ] QA/PO tests pass (if applicable)
+- [ ] GG Platform Guide is updated to incorporate new features (if applicable)
